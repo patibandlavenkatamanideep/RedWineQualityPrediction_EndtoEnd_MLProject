@@ -1,4 +1,15 @@
-## Red Wine Quality Prediction End to End Ml Project
+# Red Wine Quality Prediction End to End Ml Project
+
+## Workflows
+update config.yaml
+update schema.yaml
+update params.yaml
+update the entity
+update the configuration manager in src config
+update the components
+update the pipeline
+update the main.py
+update the app.py
 
 ```bash
 pip install -r requirements.txt
